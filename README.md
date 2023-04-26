@@ -1,4 +1,4 @@
-# ML-discord-bot
+# ChatGPT4-discord-bot
 
 This is a Python script for a Discord bot that monitors messages in a server and takes action if it detects inappropriate content. The bot logs all messages containing blocked words, phrases, or terms to a separate log file and reports them to a webhook URL. It also sends a warning message to the user who sent the message, and deletes messages that contain inappropriate content.
 
@@ -6,5 +6,5 @@ The bot loads a list of banned words from the "profanity1.txt" file, a list of f
 
 The script logs its activities to two different log files: "bot.log" for bot-related errors, and "blocked.log" for messages that contain banned words.
 
-## ChatGPT3
-In order to analyze the sentence and the image you will need to import your own set of credensials. 
+## ChatGPT4
+In order to analyze the sentence and the image with chatgpt4 multi-modal, you will need to import your own set of credensials. 
